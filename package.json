@@ -1,0 +1,15 @@
+{
+    "name": "marlena"
+  , "description": "RETE implementation for node.js"
+  , "version": "0.0.1"
+  , "author": "Tomasz Krzywicki <tkrzywicki@gmail.com>"
+  , "keywords": ["rete", "rules", "node.js", "data"]
+  , "directories": { "lib": "./lib/marlena" }
+  , "scripts": { "test": "make test" }
+  , "main": "./index.js"
+  , "engines": { "node": ">= 0.4.0" }
+  , "repository": {
+        "type": "git"
+      , "url": "git://github.com/isthar/marlena.git"
+    }
+}
